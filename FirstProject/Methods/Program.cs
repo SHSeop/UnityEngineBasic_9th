@@ -12,6 +12,7 @@ namespace Methods
 {
     internal class Program
     {
+        //void : 반환 할 타입이 없다.
         static void Main(string[] args)
         {
             int sum = Sum(1, 2);
